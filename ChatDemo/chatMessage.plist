@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>text</key>
+		<string>明天出去玩吗？</string>
+		<key>date</key>
+		<string>昨天 20:30</string>
+		<key>type</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>好吖！去哪里玩？</string>
+		<key>date</key>
+		<string>昨天 20:30</string>
+		<key>type</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>去华发看电影好吗？</string>
+		<key>date</key>
+		<string>昨天 20:32</string>
+		<key>type</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>可以！我们看什么电影啊？</string>
+		<key>date</key>
+		<string>昨天 20:33</string>
+		<key>type</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>最近黑豹上映了，想去看这个。</string>
+		<key>date</key>
+		<string>昨天 20:33</string>
+		<key>type</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>好啊，我们就看这个吧，我先去定票，我们看巨幕的吗？</string>
+		<key>date</key>
+		<string>昨天 20:33</string>
+		<key>type</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>就巨幕吧，效果震撼一点！</string>
+		<key>date</key>
+		<string>昨天 20:35</string>
+		<key>type</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>我也是这么想的，那我买下午2点半的票咯！</string>
+		<key>date</key>
+		<string>昨天 20:36</string>
+		<key>type</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>好！那明天记得准时到。</string>
+		<key>date</key>
+		<string>昨天 20:36</string>
+		<key>type</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>嗯，明天见。</string>
+		<key>date</key>
+		<string>昨天  20:37</string>
+		<key>type</key>
+		<integer>0</integer>
+	</dict>
+</array>
+</plist>

@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  MessageCell.h
 //  ChatDemo
 //
 //  Created by WingKit Tung on 17/03/2018.
@@ -7,9 +7,10 @@
 //
 
 #import <UIKit/UIKit.h>
+@class MessageFrame;
 
-@interface ViewController : UIViewController
+@interface MessageCell : UITableViewCell
 
+@property (nonatomic,strong)MessageFrame *messageFrame;
 
 @end
-
